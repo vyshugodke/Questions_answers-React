@@ -14,8 +14,7 @@ function App() {
       })}
     </section>
     </div>
-    </main>
-  
+    </main> 
 }
 
 export default App;
