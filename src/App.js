@@ -2,6 +2,7 @@ import React, {useState} from 'react';
 import data from './data'
 import SingleQuestion from './Question'
 function App() {
+  // eslint-disable-next-line
   const [questions, setQuestions] = useState(data);
   return <main>
     <div className="container">
